@@ -1,5 +1,5 @@
 # Python Learn Visual
 
-Learning for Python Data Visual
+Python 数据可视化
 
-I am using the book 《 Python 编程 从入门到实践》
+用的书是 《Python 编程 从入门到实践》
